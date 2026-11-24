@@ -1,0 +1,21 @@
+name,primary_muscle,secondary_muscles,equipment,load_note
+Bench Press,chest,triceps;shoulders,barbell,total bar weight
+Incline Dumbbell Press,chest,shoulders;triceps,dumbbell,weight per dumbbell
+Barbell Row,back,biceps,barbell,total bar weight
+Lat Pulldown,back,biceps,cable machine,machine stack weight
+Pull-Up,back,biceps,bodyweight,0 = bodyweight only
+Seated Cable Row,back,biceps,cable machine,machine stack weight
+Overhead Press,shoulders,triceps,barbell,total bar weight
+Lateral Raise,shoulders,,dumbbell,weight per dumbbell
+Bicep Curl,biceps,,dumbbell,weight per dumbbell
+Tricep Pushdown,triceps,,cable machine,machine stack weight
+Back Squat,quads,glutes;hamstrings,barbell,total bar weight
+Leg Press,quads,glutes,machine,machine sled weight
+Bulgarian Split Squat,quads,glutes,dumbbell,weight per dumbbell
+Romanian Deadlift,hamstrings,glutes;back,barbell,total bar weight
+Leg Curl,hamstrings,,machine,machine stack weight
+Hip Thrust,glutes,hamstrings,barbell,total bar weight
+Calf Raise,calves,,machine,machine stack weight
+Deadlift,back,hamstrings;glutes,barbell,total bar weight
+Dumbbell Fly,chest,shoulders,dumbbell,weight per dumbbell
+Badminton,full body,legs;shoulders,racket,"duration-based, no weight"
